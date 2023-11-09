@@ -20,14 +20,14 @@ List<CertificateModel> certificateList = [
     organization: 'BNSP',
     date: 'AUG 2023',
     skills: 'Sofware Development',
-    credential:  'https://drive.google.com/file/d/1hzX_TZj3AeWlbaEfljobvz5t3mST8qmU/view?usp=sharing',
+    credential:  'https://github.com/tomflutter',
   ),
   CertificateModel(
     name: 'Live coding',
     organization: 'LinkedIn',
     date: 'JUL 2023',
     skills: 'Belajar menjadi programmer handal dari rumah',
-    credential:  'https://drive.google.com/file/d/105ot_zvhrMsCRq9iLNwt88avVUSKDGWT/view?usp=drive_link',
+    credential:  'https://github.com/tomflutter',
   ),
   
 
