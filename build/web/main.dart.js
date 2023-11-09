@@ -81545,7 +81545,8 @@ return new A.PL(B.io,q,p)})
 s($,"aKG","auI",()=>A.cs(16667,0))
 s($,"aJN","au8",()=>A.akB(0.5,1.1,100))
 s($,"aIA","ait",()=>A.asV(0.78)/A.asV(0.9))
-r($,"aMv","D0",()=>A.a([A.amV("https://drive.google.com/file/d/1hzX_TZj3AeWlbaEfljobvz5t3mST8qmU/view?usp=sharing","AUG 2023","Program analyst","BNSP","Sofware Development"),A.amV("https://drive.google.com/file/d/105ot_zvhrMsCRq9iLNwt88avVUSKDGWT/view?usp=drive_link","JUL 2023","Live coding","LinkedIn","Belajar menjadi programmer handal dari rumah")],A.a_("u<DT>")))
+r($,"aMv","D0",()=>{var q="https://github.com/tomflutter"
+return A.a([A.amV(q,"AUG 2023","Program analyst","BNSP","Sofware Development"),A.amV(q,"JUL 2023","Live coding","LinkedIn","Belajar menjadi programmer handal dari rumah")],A.a_("u<DT>"))})
 r($,"aML","u0",()=>{var q="https://github.com/tomflutter"
 return A.a([A.a4i("Aplikasi Kencan",'Aplikasi Mobile "Kencan" - aplikasi Flutter UI yang mengundang Anda menikmati petualangan. Dengan antarmuka yang ramah pengguna, menjelajahi berbagai Kota dan menemukan Pasangan Yang cocok menjadi pengalaman yang menyenangkan.',"assets/images/coffe.jpg",q),A.a4i("Aplikasi Artificial Inteligent(OpenAI)","Aplikasi Mobile Pertama Saya","assets/images/car.jpg",q),A.a4i("Aplikasi TomAI","Aplikasi Mobile Berbayar Saya.","assets/images/alarm.jpg",q),A.a4i("Flutter Authentcate","Aplikasi Authenticate.","assets/images/chat.jpg",q)],A.a_("u<IT>"))})
 s($,"aMx","UY",()=>A.aAd())
